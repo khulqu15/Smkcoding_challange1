@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Biodata_app</string>
+    <string-array name="spinner_gender">
+        <item>Pilih Gender</item>
+        <item>Laki Laki</item>
+        <item>Perempuan</item>
+    </string-array>
+
+    <string-array name="spinner_laki">
+        <item>Laki Laki</item>
+        <item>Perempuan</item>
+    </string-array>
+
+    <string-array name="spinner_perempuan">
+        <item>Laki Laki</item>
+        <item>Perempuan</item>
+    </string-array>
+
+    <string name="biodata">Biodata</string>
+    <string name="lbl_nama">Nama :</string>
+    <string name="lbl_gender">Gender :</string>
+    <string name="lbl_umur">Umur(th) :</string>
+    <string name="lbl_email">Email :</string>
+    <string name="lbl_telp">Telp :</string>
+    <string name="lbl_alamat">Alamat :</string>
+    <string name="btn_edit">Edit Data</string>
+    <string name="btn_dial">Dial</string>
+    <string name="btn_about">About</string>
+
+    <string name="name_author">Mohammad Khusnul Khuluq</string>
+    <string name="email_author">khusnul.ninno15@gmail.com</string>
+    <string name="telp_author">085645027785</string>
+    <string name="alamat_author">Purwosari, Pasuruan, Jawatimur, Indonesia</string>
+</resources>
